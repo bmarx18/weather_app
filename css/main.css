@@ -1,0 +1,55 @@
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: normal;
+    background: #0a1f44;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+
+  button {
+    background-color: red;
+  }
+
+  #submit_button{
+    background-color: red;
+    border: 3px solid gray;
+    border-radius: 25px;
+    padding: 15px;
+  }
+
+  #high { 
+    padding: 20px;
+    text-align: center;
+    
+
+  }
+
+  button, input {
+    cursor: pointer;
+    border: none;
+    background: none;
+    outline: none;
+    color: inherit;
+    text-align: center;
+    font-size: 1rem;
+   
+  }
+  
+  .search_banner {
+    color: #1e2432;
+  }
+   
+  .heading {
+    font-weight: bold;
+    font-size: 3rem;
+    letter-spacing: 0.02em;
+  }
+  
+  .high {
+    border: #fff;
+  }
+
+  
